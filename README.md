@@ -1,2 +1,2 @@
-# J48
-Machine Learning - Java implantation of C4.5 Algorithm
+# mlj48
+Java implementation of C4.5 classifier
